@@ -1,0 +1,7 @@
+com\bikkadit\ebam\testCase\TC_LoginTest_002.class
+com\bikkadit\ebam\utilities\Reporting.class
+com\bikkadit\ebam\utilities\ReadConfig.class
+com\bikkadit\ebam\testCase\BaseClass.class
+com\bikkadit\ebam\pageobject\LoginPage.class
+com\bikkadit\ebam\utilities\XLUtils.class
+com\bikkadit\ebam\testCase\TC_LoginTest_001.class
